@@ -5,7 +5,11 @@ Authentication application using JSP
 ## Video Demo
 
 
-Uploading auth_jsp.mp4…
+
+
+https://github.com/ayoubrakine/TP_jsp_hibernate/assets/117600764/96a43018-2ecb-40a4-9e45-07986d201920
+
+
 
 
 ## How to Use

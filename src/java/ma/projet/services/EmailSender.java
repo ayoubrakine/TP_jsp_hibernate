@@ -18,7 +18,7 @@ import javax.mail.internet.MimeMessage;
 public class EmailSender {
 
     static final String username = "ayoubrrakine@gmail.com";
-    static final String password = "xrib sqmg dldu wjfp";
+    static final String password = "hahahahahaha";
     static final String host = "smtp.gmail.com";
     static final String port = "587";
 
